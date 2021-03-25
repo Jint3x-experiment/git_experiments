@@ -1,3 +1,7 @@
+import test from "./test.mjs";
+
+test();
+
 function diff(a, b) {
     return a - b;
 }
@@ -7,6 +11,10 @@ function diff(a, b) {
 function add(a, b) {
     return a + b;
 }
+
+
+  
+
 
 
 exports.diff = diff;
