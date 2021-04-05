@@ -16,6 +16,8 @@ function add(a, b) {
   
 
 // Better.
+// How can you not love it?
+// Even more data
 
 exports.diff = diff;
 exports.add = add;
