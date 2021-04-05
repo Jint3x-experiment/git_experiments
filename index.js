@@ -15,7 +15,7 @@ function add(a, b) {
 
   
 
-
+// Better.
 
 exports.diff = diff;
 exports.add = add;
