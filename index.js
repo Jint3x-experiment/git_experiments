@@ -15,9 +15,13 @@ function add(a, b) {
 
   
 
+<<<<<<< HEAD
 // Better.
 // How can you not love it?
 // Even more data
+=======
+// Better. Yes
+>>>>>>> test2
 
 exports.diff = diff;
 exports.add = add;
